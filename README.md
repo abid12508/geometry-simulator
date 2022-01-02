@@ -3,7 +3,7 @@ Simulate your shapes by plugging in your values. Once you press the enter button
 You can also enter the amount of loops you want to have. Have fun! FYI if you need to run the exe, make sure to download it onto your github folder.
 I had to add the exact path of the icon (C:\GitHub\geometry-simulator).
 
-<h2 align="center"> <i>still in development<i> </h2>
+<h2 align="center"> <i>still in development</i> </h2>
 
 # Square
 The first tab will feature a square shape simulator. Using turtle graphics, your four values (2 x, 2 y) will determine the size of your square. \
