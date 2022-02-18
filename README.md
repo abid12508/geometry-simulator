@@ -22,13 +22,6 @@ left(90) 90 degrees
   
 There will also be a loop system that will track the amount of loops for your square. 
 
-```
-    def func():
-        loops = 0
-        while loops < amount of loops client wanted.get():
-          {code}
-          loops += 1
-```
 
 <p align = "center">
   <img src="https://user-images.githubusercontent.com/77800165/147868481-42d45cc0-f0a0-498b-b921-b47776bcdbfe.png">
